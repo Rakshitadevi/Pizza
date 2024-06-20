@@ -1,0 +1,321 @@
+/* _______________________OUR Menu______________________ */
+
+.Our-menu{
+    background-image: url("/Assets/Media/images/bg_4.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+.Our-menu1{
+    font-size: 30px;
+    font-family:"Josefin Sans",Arial,sans-serif;
+}
+
+.Our-menu2{
+    font-size: 15px;
+    font-family: "Poppins",Arial, sans-serif;
+    color:#808080;
+}
+
+.Pizza1{
+    font-family:"Josefin Sans",Arial,sans-serif;
+    font-size: 20px;
+}
+.Pizza1-1{
+    font-size: 15px;
+    font-family: "Poppins",Arial, sans-serif;
+    color:#808080;
+}
+.Pizza1-2{
+    font-size: 16px;
+    font-family: "Poppins",Arial, sans-serif;
+}
+.Pizza1-3{
+    font-size: 13px;
+    font-family: "Poppins",Arial, sans-serif;
+    background-color: transparent;
+    height: 25px;
+    width: 80px;
+    border: 2px solid white;
+    color: white;
+}
+
+.Pizza1-3:hover{
+    border: none;
+    background-color: #fac564;
+    color: black;
+}
+
+.pizza-1-img{
+    height: 250px;
+    width: 252px;
+}
+
+.pizza-2-img{
+    height: 250px;
+    width: 252px;
+}
+
+.pizza-3-img{
+    height: 250px;
+    width: 252px;
+}
+
+.menu-1{
+    font-size: 18px;
+    font-family:"Josefin Sans",Arial,sans-serif;
+    background-color: black;
+    border: 11px solid black;
+}
+
+.menu-2{
+    font-size: 16px;
+    font-family: "Poppins",Arial, sans-serif;
+    margin-left: 250px;
+    background-color: black;
+    border: 11px solid black;
+    color: #bf7e06;
+}
+
+.borders{
+    border-bottom: 1px dashed #bf7e06;
+    margin-left: 2px;
+    width: 85%;
+}
+
+.menu-3{
+    color: #808080;
+    font-size: 15px;
+    font-family: "Poppins",Arial, sans-serif;
+}
+
+.menu-4{
+    font-size: 18px;
+    font-family:"Josefin Sans",Arial,sans-serif;
+    background-color: black;
+    border: 11px solid black;
+}
+
+.menu-5{
+    font-size: 16px;
+    font-family: "Poppins",Arial, sans-serif;
+    margin-left: 220px;
+    background-color: black;
+    border: 11px solid black;
+    color: #bf7e06;
+}
+
+.menu-6{
+    font-size: 18px;
+    font-family:"Josefin Sans",Arial,sans-serif;
+    background-color: black;
+    border: 11px solid black;
+}
+
+.menu-7{
+    font-size: 16px;
+    font-family: "Poppins",Arial, sans-serif;
+    margin-left: 190px;
+    background-color: black;
+    border: 11px solid black;
+    color: #bf7e06;
+}
+
+.menu-8{
+    font-size: 18px;
+    font-family:"Josefin Sans",Arial,sans-serif;
+    background-color: black;
+    border: 11px solid black;
+}
+
+.menu-9{
+    font-size: 16px;
+    font-family: "Poppins",Arial, sans-serif;
+    margin-left: 210px;
+    background-color: black;
+    border: 11px solid black;
+    color: #bf7e06;
+}
+
+.menu-10{
+    font-size: 18px;
+    font-family:"Josefin Sans",Arial,sans-serif;
+    background-color: black;
+    border: 11px solid black;
+}
+
+.menu-11{
+    font-size: 16px;
+    font-family: "Poppins",Arial, sans-serif;
+    margin-left: 198px;
+    background-color: black;
+    border: 11px solid black;
+    color: #bf7e06;
+}
+
+.menu-12{
+    font-size: 18px;
+    font-family:"Josefin Sans",Arial,sans-serif;
+    background-color: black;
+    border: 11px solid black;
+}
+
+.menu-13{
+    font-size: 16px;
+    font-family: "Poppins",Arial, sans-serif;
+    margin-left: 200px;
+    background-color: black;
+    border: 11px solid black;
+    color: #bf7e06;
+}
+
+.menu-card{
+    border: none !important;
+}
+
+.tit{
+    display: none;
+    width: 60px;
+    height: 60px;
+    padding-top: 4px;
+    margin-top: 95px;
+    margin-left: 150px;
+    color: white;
+    background-color: #fac564;
+    border: 2px solid #fac564;
+    position: relative;
+    z-index: 0;
+
+}
+
+.menu-card:hover .tit{
+    display: block;
+    position: absolute;
+    transform: rotate3d(180deg);
+}
+
+/* _______________________________Menu1____________________________ */
+
+.menu-img{
+    background-image: url("/Assets/Media/images/bg_4.jpg");
+    background-repeat:repeat;
+    background-size: cover;
+    
+}
+
+.menu-img1{
+    height: 600px;
+}
+
+.menus-1{
+    height: 50px;
+    width: 100px;
+    border: 2px solid #fac564;
+    color: black;
+    background-color: #fac564;
+    font-size: 18px;
+    font-family: "Poppins",Arial, sans-serif;
+
+}
+
+.menus-2{
+    height: 50px;
+    width: 100px;
+    background-color: transparent;
+    border: 2px solid #fac564;
+    color: #fac564;
+    font-size: 18px;
+    font-family: "Poppins",Arial, sans-serif;
+}
+
+.menus-2:hover{
+    background-color: #fac564;
+    color:black;
+}
+
+.menus-3{
+    color:white;
+    font-size: 22px;
+    font-family:"Josefin Sans",Arial,sans-serif;
+}
+
+.menus-4{
+    color: #808080;
+    font-size: 15px;
+    font-family: "Poppins",Arial, sans-serif;
+}
+
+.menus-5{
+    color: #fac564;
+    font-size: 16px;
+    font-family: "Poppins",Arial, sans-serif;
+}
+
+.menus-6{
+    color: white;
+    font-size: 13px;
+    font-family: "Poppins",Arial, sans-serif;
+    height: 100px;
+    width: 70px;
+    border: 2px solid white;
+    margin-left: 80px;
+}
+
+.menus-6:hover{
+    border: none;
+    background-color: #fac564;
+    color: black;
+}
+
+.menus-7{
+    font-size: 30px;
+    font-family:"Josefin Sans",Arial,sans-serif;
+}
+
+.menus-8{
+    color: #808080;
+    font-size: 15px;
+    font-family: "Poppins",Arial, sans-serif;
+}
+
+.img-1{
+    height: 300px;
+    width: 360px;
+}
+
+.img-2{
+    height: 300px;
+    width: 360px;
+}
+
+.img-3{
+    height: 300px;
+    width: 360px;
+}
+
+.menus-9{
+    height: 500px;
+    width: 410px;
+}
+.menus{
+    margin-left: 150px;
+}
+
+.menus-10{
+    color:#808080;
+    font-size: 15px;
+    font-family: "Poppins",Arial, sans-serif;
+    background-color: transparent;
+}
+
+.menus-11{
+    font-size: 18px;
+    font-family:"Josefin Sans",Arial,sans-serif;
+    background-color: transparent;
+}
+
+.menus-12{
+    color: #808080;
+    font-size: 15px;
+    font-family: "Poppins",Arial, sans-serif;
+}

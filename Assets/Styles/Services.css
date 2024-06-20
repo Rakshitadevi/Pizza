@@ -1,0 +1,53 @@
+/*_________________________SERVICES__________________________*/
+
+.services{
+    background-image: url("/Assets/Media/images/food.png");
+    background-repeat:repeat;
+}
+
+.img-border{
+    color: #5C3D03;
+}
+
+.ser1{
+    font-size: 30px;
+    font-family:"Josefin Sans",Arial,sans-serif;
+}
+
+.ser2{
+    font-size: 15px;
+    font-family: "Poppins",Arial, sans-serif;
+    color: #5C3D03;
+}
+
+.ser3{
+    font-size: 18px;
+    font-family:"Josefin Sans",Arial,sans-serif;
+}
+
+.ser4{
+    font-size: 15px;
+    font-family: "Poppins",Arial, sans-serif;
+    color: #5C3D03;
+}
+
+.border1{
+    width: 100px;
+    height: 100px;
+    border: 2px solid #5C3D03;
+    margin-left: 170px;
+}
+
+.border2{
+    width: 100px;
+    height: 100px;
+    border: 2px solid #5C3D03;
+    margin-left: 170px;
+}
+
+.border3{
+    width: 100px;
+    height: 100px;
+    border: 2px solid #5C3D03;
+    margin-left: 170px;
+}
